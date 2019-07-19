@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+	<VSNode splits="0.15 0.85">
+
+		<CNode>
+			<Component label="Asserted hierarchy">
+				<Property id="pluginId"
+					value="org.protege.editor.owl.OWLAssertedClassHierarchy" />
+			</Component>
+		</CNode>
+		<CNode>
+			<Component label="OntoRed Plugin">
+				<Property id="pluginId" value="OntoRed.View" />
+			</Component>
+		</CNode>
+	</VSNode>
+</layout>
